@@ -1,5 +1,4 @@
 
-#彩云天气 v0.1 alpha
 const $ = API("caiyun");
 const ERR = MYERR();
 
